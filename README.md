@@ -1,3 +1,3 @@
-# .spacemacs
+# dotfiles
 
-[Spacemacs](http://spacemacs.org/) configuration
+Various dotfiles, including [Spacemacs](http://spacemacs.org/) configuration.
