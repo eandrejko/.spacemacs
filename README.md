@@ -1,2 +1,3 @@
 # .spacemacs
-Spacemacs configuration
+
+[Spacemacs](http://spacemacs.org/) configuration
